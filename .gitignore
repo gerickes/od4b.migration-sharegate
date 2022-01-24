@@ -1,0 +1,8 @@
+# Ignore all log files
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Report folder
+MyReports/
